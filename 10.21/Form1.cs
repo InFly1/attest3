@@ -12,6 +12,12 @@ using ToolsLibrary;
 
 namespace _10._21
 {
+    /*
+     * какой-то текст
+     * 
+     * 
+     * 
+     * */
     public partial class Form1 : Form
     {
         public Form1()
