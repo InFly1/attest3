@@ -10,3 +10,15 @@ C:\Users\Andre\source\repos\AntonP\attest3\13.21\obj\Debug\13.21.exe
 C:\Users\Andre\source\repos\AntonP\attest3\13.21\obj\Debug\13.21.pdb
 C:\Users\Andre\source\repos\AntonP\attest3\13.21\bin\Debug\GameLogic.dll
 C:\Users\Andre\source\repos\AntonP\attest3\13.21\bin\Debug\GameLogic.pdb
+C:\Users\User\Desktop\attest3_AP-master\13.21\bin\Debug\13.21.exe.config
+C:\Users\User\Desktop\attest3_AP-master\13.21\bin\Debug\13.21.exe
+C:\Users\User\Desktop\attest3_AP-master\13.21\bin\Debug\13.21.pdb
+C:\Users\User\Desktop\attest3_AP-master\13.21\bin\Debug\GameLogic.dll
+C:\Users\User\Desktop\attest3_AP-master\13.21\bin\Debug\GameLogic.pdb
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\13.21.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\_13._21.Form1.resources
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\_13._21.Properties.Resources.resources
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\13.21.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\13.21.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\13.21.exe
+C:\Users\User\Desktop\attest3_AP-master\13.21\obj\Debug\13.21.pdb
