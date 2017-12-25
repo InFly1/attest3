@@ -7,11 +7,6 @@ using System.IO;
 
 namespace GameLogic
 {
-    /*
-    Выключить свет! – http://www.2flashgames.com/f/f-35.htm
-Предусмотреть несколько уровней (уровни выбираются в меню). Описание уровней должно храниться в виде текстовых файлов level_01.txt, level_02.txt в директории levels,
-которая расположена в директории, в которой находится сам исполняемый файл игры. 
-     */
     public static class FileLevels
     {
         public static bool[,] GetLevel(int number)
